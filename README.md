@@ -1,5 +1,5 @@
 # pdfSol
-<h1>It uses an api of Open AI for embedding and chat/h1>
+<h1>It uses an api of Open AI for embedding and chat</h1>
 <h2>Get api key from openAI</h2>
 <p>
   clone the project.<br>
